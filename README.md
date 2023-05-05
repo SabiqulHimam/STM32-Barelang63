@@ -11,7 +11,11 @@ Barelang63 STM32 program
 
 2. Buka Project dengan menggunakan STM32 Cube IDE
 
+3. ganti nama program `main.cpp` menjadi `main.c` dan `Stm32f4xx_it.cpp` menjadi `Stm32f4xx_it.c`. 
+
 3. Buka `STM32-Barelang63-main.ioc`, lalu setel pin aktuator dan sensor yang menggunakan STM32, lalu generate Project dengan menekan `Ctrl+S`
+
+4. Kembalikan nama yang tadi diubah menjadi `main.cpp` dan `Stm32f4xx_it.cpp` kembali.
 
 ## Setting aktuator
 
